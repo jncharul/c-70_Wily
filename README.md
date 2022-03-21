@@ -1,1 +1,2 @@
-# c-70_Wily
+# e-library-PRO-C70
+Solution code for PRO-C70
